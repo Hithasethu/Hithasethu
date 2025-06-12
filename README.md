@@ -12,6 +12,6 @@
 
 💼 Intern @ Luminar Technolab | Always learning | Open to collaborations!
 
-📫 Let’s connect: [LinkedIn](https://linkedin.com/in/hitha-s)
+📫 Let’s connect: [LinkedIn](https://linkedin.com/in/hitha-s-)
 ...
 -->
