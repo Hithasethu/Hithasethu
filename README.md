@@ -1,4 +1,4 @@
-👋 Hi there! I'm Hitha — a Chemistry graduate turned Data Analyst/Data Engineer passionate about turning raw data into meaningful insights.
+👋 Hi there! I'm Hitha — a Chemistry graduate turned Data Analyst passionate about turning raw data into meaningful insights.
 
 🔍 Currently exploring real-world data problems in tourism, e-commerce, and health using Python, Machine Learning, and visualization tools.
 
